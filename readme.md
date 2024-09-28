@@ -48,5 +48,5 @@ Feel free to reach out to me!
 
 ## 📫 **Contact Information**
 - **Email**: eng.mahadi40@gmail.com
-- **LinkedIn**: [Mahadi Hasan]([https://linkedin.com](https://www.linkedin.com/in/mahadi-hasan-606548103/))
+- **LinkedIn**: [Mahadi Hasan](https://www.linkedin.com/in/mahadi-hasan-606548103/)
 - **GitHub**: [CoderMahadi](https://github.com/codermahadi)
