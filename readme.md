@@ -1,7 +1,31 @@
 # Senior Software Engineer
 
-With over 7 years of experience, I specialize in building robust and scalable applications across multiple domains, including Edutech, Fintech, Healthcare, ERP, WebRTC, and Video Streaming. My expertise spans across backend, frontend, and DevOps, with a strong focus on clean architecture, performance optimization, and efficient system design.
+Here's a professional bio tailored for your GitHub profile:
 
+---
+
+# 👋 Hi, I'm **Mahadi Hasan**  
+
+I’m a **Senior Software Engineer** with over 8 years of experience building scalable, high-performance applications. I specialize in **JavaScript** and have extensive experience with **React.js**, **Node.js**, **Next.js**,**Nest.js**, and **Laravel**. My passion lies in crafting user-friendly interfaces and robust backend systems.
+
+## 💼 **What I Do**  
+- **Full-Stack Development**: Expertise in both frontend and backend development.  
+- **Real-Time Applications**: Developing chat apps and live features using **WebSockets**.  
+- **API Development**: Building RESTful and GraphQL APIs.  
+- **System Design**: Designing scalable architectures for complex systems.  
+
+## 🛠 **Tech Stack**  
+- **Frontend**: React.js, Next.js, Tailwind CSS, Framer Motion  
+- **Backend**: Node.js, NestJS, Laravel, ExpressJS  
+- **Database**: MongoDB, MySQL, CouchDB, Redis  
+- **DevOps**: Nginx, Docker, Ubuntu  
+- **Other Tools**: Expo, Storybook, ShadCN  
+
+## 🌱 **What I’m Working On**  
+- A **Real-Time Chat Application** with Express.js and Next.js.  
+- An **Inventory Management System** built with Laravel.  
+
+---
 ## 🔧 **Technical Skills**
 
 ### Backend
