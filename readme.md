@@ -21,10 +21,6 @@ I’m a **Senior Software Engineer** with over 8 years of experience building sc
 - **DevOps**: Nginx, Docker, Ubuntu  
 - **Other Tools**: Expo, Storybook, ShadCN  
 
-## 🌱 **What I’m Working On**  
-- A **Real-Time Chat Application** with Express.js and Next.js.  
-- An **Inventory Management System** built with Laravel.  
-
 ---
 ## 🔧 **Technical Skills**
 
